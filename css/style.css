@@ -1,1 +1,28 @@
 /* add CSS class and element and selectors here */
+
+    body {
+      background-color: red;
+      font-size: 100%;
+    }
+    
+    .myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+    .rgClass {
+      font-size: 150%;
+      background-color: white;
+      font-family: Times New Roman;
+      border: 1px dotted blue;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      transition: rotate(-60)deg;
+    }
+    
+    h1 {
+      color: green; 
+      font-size: 30px;
+    }
+    
+    
